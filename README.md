@@ -275,6 +275,10 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P6iF8DdYbKQ?si=uw9ig4KVb4S2ni1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
+<br><br><br><br>
+<h2><span class="yellow">5日予選の動画リンクはこちら</span>
+<a href="https://torokoid.github.io/20250705_SUGO/" target="_blank"><br>リンク</a></h2>
+
 <br><br><br><br><br><br><br><br><br>
 
 <!--  
